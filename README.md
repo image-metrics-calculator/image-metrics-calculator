@@ -37,8 +37,8 @@ python application.py
 - `--out_dir`: The directory to save the outputs. Default root directory.                  
 
 
-## Author Team
+<!-- ## Author Team
 - **Amrita Dey**, Department of Marketing, Denver University
 - Tianyu Gu, Department of Marketing, University of Utah
 - Yu Zhu, Department of Operations and Information Systems, University of Utah
-- Steve J. Carson, Department of Marketing, University of Utah
+- Steve J. Carson, Department of Marketing, University of Utah -->
