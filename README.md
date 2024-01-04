@@ -4,7 +4,7 @@ This is the "offline" image metrics calculator for [cite our paper]. While the [
 
 ## How to Use
 
-- Clone this repo: `git clone ...`
+- Clone this repo: `git clone https://github.com/image-metrics-calculator/image-metrics-calculator.git`
 
 - Enter the root directory: `cd image-metrics-calculator`
 
